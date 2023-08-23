@@ -5,3 +5,6 @@ print("Hello again")
 
 for i in range (0,10):
     print(i)
+
+for i in range(11,20):
+    print(i)
