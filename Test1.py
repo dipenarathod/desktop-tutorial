@@ -8,3 +8,12 @@ for i in range (0,10):
 
 for i in range(11,20):
     print(i)
+
+print("Adding Lines")
+print("Adding more lines")
+i = 5
+j = 5
+k = i + j
+
+if(i>10):
+    print("i wins")
