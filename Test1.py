@@ -36,3 +36,28 @@ if(j<10):
 
 if(k>=10):
     print("k>=10")
+
+print("Pull 2")
+print("Pull 2 extra")
+
+
+print("Pull 2")
+print("Pull 2 extra")
+
+print("Pull 2")
+print("Pull 2 extra")
+
+print("Pull 2")
+print("Pull 2 extra")
+
+print("Pull 3")
+print("Pull 3 extra live test")
+
+print("Pull 4")
+print("Pull 4 Live test")
+
+print("Pull 5")
+print("Pull 5 live test")
+
+print("Pull 6")
+print("Pull 6 live test")
