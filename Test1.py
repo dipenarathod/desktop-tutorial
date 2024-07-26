@@ -36,3 +36,6 @@ if(j<10):
 
 if(k>=10):
     print("k>=10")
+
+print("Pull 10")
+print("Pull 10")
