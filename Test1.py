@@ -36,3 +36,52 @@ if(j<10):
 
 if(k>=10):
     print("k>=10")
+
+l = 5
+m = 5
+n = l + m + i + j
+
+if(i>10):
+    print("i wins")
+
+if(j<10):
+    print("j<10")
+
+if(k>=10):
+    print("k>=10")
+
+l = 5
+m = 5
+n = l + m + i + j
+
+if(i>10):
+    print("i wins")
+
+if(j<10):
+    print("j<10")
+
+if(k>=10):
+    print("k>=10")
+
+n = l + m + i + j
+
+if(i>10):
+    print("i wins")
+
+if(j<10):
+    print("j<10")
+
+if(k>=10):
+    print("k>=10")
+
+
+n = l + m + i + j
+
+if(i>10):
+    print("i wins")
+
+if(j<10):
+    print("j<10")
+
+if(k>=10):
+    print("k>=10")
