@@ -79,6 +79,46 @@
                 "LOC": 15,
                 "Length of Identifier": 3.0952380952380953
             }
+        },
+        "2023-08-23 16:54:43": {
+            "Halstead": {
+                "Program Vocabulary": 3,
+                "Program Length": 8,
+                "Estimated Program Length": 2.0,
+                "Volume": 12.679700005769249,
+                "Difficulty": 1.0,
+                "Effort": 12.679700005769249
+            },
+            "OO": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Traditional": {
+                "LOC": 4,
+                "Length of Identifier": 5.0
+            }
+        },
+        "2023-08-23 17:04:40": {
+            "Halstead": {
+                "Program Vocabulary": 7,
+                "Program Length": 13,
+                "Estimated Program Length": 13.60964047443681,
+                "Volume": 36.49561398674886,
+                "Difficulty": 1.6,
+                "Effort": 58.39298237879817
+            },
+            "OO": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Traditional": {
+                "LOC": 6,
+                "Length of Identifier": 4.0
+            }
         }
     },
     "Test2": {
