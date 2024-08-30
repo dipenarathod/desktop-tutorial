@@ -59,6 +59,26 @@
                 "LOC": 19,
                 "Length of Identifier": 3.08
             }
+        },
+        "2024-07-23 05:25:51": {
+            "Halstead": {
+                "Program Vocabulary": 18,
+                "Program Length": 37,
+                "Estimated Program Length": 59.715356810271004,
+                "Volume": 154.28722505336555,
+                "Difficulty": 4.615384615384616,
+                "Effort": 712.0948848616872
+            },
+            "OO": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Traditional": {
+                "LOC": 15,
+                "Length of Identifier": 3.0952380952380953
+            }
         }
     },
     "Test2": {
