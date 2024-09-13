@@ -76,5 +76,17 @@
     },
     "13": {
         "last_checked_commit": "be474db681b6f1c10f368d107902cd201da3e393"
+    },
+    "12": {
+        "last_checked_commit": "64afbf07bdc256d92dc9b8677351a9a029acb68e"
+    },
+    "14": {
+        "last_checked_commit": "e4c98b193792be3672f91fbd8392f1baaa8a6712"
+    },
+    "11": {
+        "last_checked_commit": "812be7572cf5e45d16e9ac96589ce3727a148e66"
+    },
+    "10": {
+        "last_checked_commit": "ac32bd302caa0db90293d5e6ab13338aa5d35b6d"
     }
 }
