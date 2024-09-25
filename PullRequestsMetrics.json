@@ -322,5 +322,113 @@
                 }
             }
         }
+    },
+    "46d16aabf1e37b581abacaf25896675f314405f5": {
+        "Test1": {
+            "2024-07-26 07:07:43": {
+                "Halstead": {
+                    "Program Vocabulary": 33,
+                    "Program Length": 104,
+                    "Estimated Program Length": 146.2155782920497,
+                    "Volume": 524.6169884132792,
+                    "Difficulty": 5.7142857142857135,
+                    "Effort": 2997.811362361595
+                },
+                "OO": {
+                    "WMC": {},
+                    "NOC": {},
+                    "DIT": {},
+                    "CBO": {}
+                },
+                "Traditional": {
+                    "LOC": 44,
+                    "Fan in": {},
+                    "Fan out": {},
+                    "CC": {},
+                    "Length of Identifier": 3.3703703703703702
+                }
+            }
+        }
+    },
+    "23a6016bc7a2d46716eeaf15cd40ad16c5c863ad": {
+        "Test1": {
+            "2024-07-26 07:01:47": {
+                "Halstead": {
+                    "Program Vocabulary": 31,
+                    "Program Length": 100,
+                    "Estimated Program Length": 133.8210731461052,
+                    "Volume": 495.4196310386875,
+                    "Difficulty": 5.961538461538462,
+                    "Effort": 2953.4631850383294
+                },
+                "OO": {
+                    "WMC": {},
+                    "NOC": {},
+                    "DIT": {},
+                    "CBO": {}
+                },
+                "Traditional": {
+                    "LOC": 42,
+                    "Fan in": {},
+                    "Fan out": {},
+                    "CC": {},
+                    "Length of Identifier": 3.3076923076923075
+                }
+            }
+        }
+    },
+    "0558f03b3e1fe9ec9b458e11026b8aeecaf885a3": {
+        "Test1": {
+            "2024-07-26 07:24:46": {
+                "Halstead": {
+                    "Program Vocabulary": 35,
+                    "Program Length": 108,
+                    "Estimated Program Length": 158.81635834269238,
+                    "Volume": 553.9625658300564,
+                    "Difficulty": 5.5,
+                    "Effort": 3046.7941120653104
+                },
+                "OO": {
+                    "WMC": {},
+                    "NOC": {},
+                    "DIT": {},
+                    "CBO": {}
+                },
+                "Traditional": {
+                    "LOC": 46,
+                    "Fan in": {},
+                    "Fan out": {},
+                    "CC": {},
+                    "Length of Identifier": 3.4285714285714284
+                }
+            }
+        }
+    },
+    "9de580228217701493498abd422e0ffec9dd311d": {
+        "Test1": {
+            "2024-07-26 06:57:15": {
+                "Halstead": {
+                    "Program Vocabulary": 27,
+                    "Program Length": 92,
+                    "Estimated Program Length": 109.71713608445735,
+                    "Volume": 437.44965019903907,
+                    "Difficulty": 6.590909090909091,
+                    "Effort": 2883.1908763118486
+                },
+                "OO": {
+                    "WMC": {},
+                    "NOC": {},
+                    "DIT": {},
+                    "CBO": {}
+                },
+                "Traditional": {
+                    "LOC": 38,
+                    "Fan in": {},
+                    "Fan out": {},
+                    "CC": {},
+                    "Length of Identifier": 3.1666666666666665
+                }
+            }
+        }
     }
 }
