@@ -1,0 +1,36 @@
+{
+    "branch_info": {
+        "last_commit_sha": "16bcb65fee24d1d473259e76521243ef9883fb0b",
+        "last_update": "2025-01-16T16:51:21.359846"
+    },
+    "metrics": {
+        "Test": {
+            "LOC": 1,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test1": {
+            "LOC": 112,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 2.6842105263157894
+        },
+        "Test2": {
+            "LOC": 9,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test3": {
+            "LOC": 7,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        }
+    }
+}
