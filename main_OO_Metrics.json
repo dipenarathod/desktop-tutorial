@@ -1,0 +1,32 @@
+{
+    "branch_info": {
+        "last_commit_sha": "16bcb65fee24d1d473259e76521243ef9883fb0b",
+        "last_update": "2025-01-16T16:51:21.359846"
+    },
+    "metrics": {
+        "Test": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test1": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test2": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test3": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        }
+    }
+}
