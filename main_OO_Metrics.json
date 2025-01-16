@@ -1,7 +1,7 @@
 {
     "branch_info": {
-        "last_commit_sha": "0afdf87d84009c45492bacf063bc8eb7902e8031",
-        "last_update": "2025-01-16T17:03:52.670018"
+        "last_commit_sha": "03de39da02c0d7f7470d5df1a2dee1f688208c74",
+        "last_update": "2025-01-16T17:08:41.557689"
     },
     "metrics": {
         "Test": {
@@ -23,6 +23,30 @@
             "CBO": {}
         },
         "Test3": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test Python files/Test.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test1.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test2.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test3.py": {
             "WMC": {},
             "NOC": {},
             "DIT": {},
