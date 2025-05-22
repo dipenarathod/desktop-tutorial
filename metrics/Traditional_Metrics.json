@@ -5634,5 +5634,395 @@
                 "Length of Identifier": 5.0
             }
         }
+    },
+    "2025-05-21T16:32:00+00:00": {
+        "Test Python files/Test.py": {
+            "LOC": 1,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test1.py": {
+            "LOC": 112,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 2.6842105263157894
+        },
+        "Test2.py": {
+            "LOC": 9,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test3.py": {
+            "LOC": 7,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "TestClasses.py": {
+            "LOC": 12,
+            "Fan in": {
+                "__init__": 1,
+                "printA": 1,
+                "print": 1,
+                "super": 1
+            },
+            "Fan out": {
+                "__init__": 3,
+                "printA": 1
+            },
+            "CC": {},
+            "Length of Identifier": 3.933333333333333
+        }
+    },
+    "branch_info": {
+        "046626e151ca170ff6b84ea6c1ec7a4763efe16c": {
+            "commit_sha": "046626e151ca170ff6b84ea6c1ec7a4763efe16c",
+            "commit_date": "2025-05-21T16:32:00+00:00"
+        },
+        "4e5312a848351218728e55ca743f554eed0bdda5": {
+            "commit_sha": "4e5312a848351218728e55ca743f554eed0bdda5",
+            "commit_date": "2025-05-21T16:31:57+00:00"
+        },
+        "84c6cb0eb79e1834017b97d67df308485737bb79": {
+            "commit_sha": "84c6cb0eb79e1834017b97d67df308485737bb79",
+            "commit_date": "2025-05-21T16:31:55+00:00"
+        },
+        "3ff446b6a216474b6df893d277a85ea7e6ba8276": {
+            "commit_sha": "3ff446b6a216474b6df893d277a85ea7e6ba8276",
+            "commit_date": "2025-05-21T16:31:53+00:00"
+        }
+    },
+    "2025-05-21T16:31:57+00:00": {
+        "Test Python files/Test.py": {
+            "LOC": 1,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test1.py": {
+            "LOC": 112,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 2.6842105263157894
+        },
+        "Test2.py": {
+            "LOC": 9,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test3.py": {
+            "LOC": 7,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "TestClasses.py": {
+            "LOC": 12,
+            "Fan in": {
+                "__init__": 1,
+                "printA": 1,
+                "print": 1,
+                "super": 1
+            },
+            "Fan out": {
+                "__init__": 3,
+                "printA": 1
+            },
+            "CC": {},
+            "Length of Identifier": 3.933333333333333
+        }
+    },
+    "2025-05-21T16:31:55+00:00": {
+        "Test Python files/Test.py": {
+            "LOC": 1,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test1.py": {
+            "LOC": 112,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 2.6842105263157894
+        },
+        "Test2.py": {
+            "LOC": 9,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test3.py": {
+            "LOC": 7,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "TestClasses.py": {
+            "LOC": 12,
+            "Fan in": {
+                "__init__": 1,
+                "printA": 1,
+                "print": 1,
+                "super": 1
+            },
+            "Fan out": {
+                "__init__": 3,
+                "printA": 1
+            },
+            "CC": {},
+            "Length of Identifier": 3.933333333333333
+        }
+    },
+    "2025-05-21T16:31:53+00:00": {
+        "Test Python files/Test.py": {
+            "LOC": 1,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test1.py": {
+            "LOC": 112,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 2.6842105263157894
+        },
+        "Test2.py": {
+            "LOC": 9,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "Test3.py": {
+            "LOC": 7,
+            "Fan in": {},
+            "Fan out": {},
+            "CC": {},
+            "Length of Identifier": 5.0
+        },
+        "TestClasses.py": {
+            "LOC": 12,
+            "Fan in": {
+                "__init__": 1,
+                "printA": 1,
+                "print": 1,
+                "super": 1
+            },
+            "Fan out": {
+                "__init__": 3,
+                "printA": 1
+            },
+            "CC": {},
+            "Length of Identifier": 3.933333333333333
+        }
+    },
+    "046626e151ca170ff6b84ea6c1ec7a4763efe16c": {
+        "date": "2025-05-21T16:32:00+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "LOC": 1,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test1.py": {
+                "LOC": 112,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.6842105263157894
+            },
+            "Test2.py": {
+                "LOC": 9,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test3.py": {
+                "LOC": 7,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "TestClasses.py": {
+                "LOC": 12,
+                "Fan in": {
+                    "__init__": 1,
+                    "printA": 1,
+                    "print": 1,
+                    "super": 1
+                },
+                "Fan out": {
+                    "__init__": 3,
+                    "printA": 1
+                },
+                "CC": {},
+                "Length of Identifier": 3.933333333333333
+            }
+        }
+    },
+    "4e5312a848351218728e55ca743f554eed0bdda5": {
+        "date": "2025-05-21T16:31:57+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "LOC": 1,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test1.py": {
+                "LOC": 112,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.6842105263157894
+            },
+            "Test2.py": {
+                "LOC": 9,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test3.py": {
+                "LOC": 7,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "TestClasses.py": {
+                "LOC": 12,
+                "Fan in": {
+                    "__init__": 1,
+                    "printA": 1,
+                    "print": 1,
+                    "super": 1
+                },
+                "Fan out": {
+                    "__init__": 3,
+                    "printA": 1
+                },
+                "CC": {},
+                "Length of Identifier": 3.933333333333333
+            }
+        }
+    },
+    "84c6cb0eb79e1834017b97d67df308485737bb79": {
+        "date": "2025-05-21T16:31:55+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "LOC": 1,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test1.py": {
+                "LOC": 112,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.6842105263157894
+            },
+            "Test2.py": {
+                "LOC": 9,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test3.py": {
+                "LOC": 7,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "TestClasses.py": {
+                "LOC": 12,
+                "Fan in": {
+                    "__init__": 1,
+                    "printA": 1,
+                    "print": 1,
+                    "super": 1
+                },
+                "Fan out": {
+                    "__init__": 3,
+                    "printA": 1
+                },
+                "CC": {},
+                "Length of Identifier": 3.933333333333333
+            }
+        }
+    },
+    "3ff446b6a216474b6df893d277a85ea7e6ba8276": {
+        "date": "2025-05-21T16:31:53+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "LOC": 1,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test1.py": {
+                "LOC": 112,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.6842105263157894
+            },
+            "Test2.py": {
+                "LOC": 9,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "Test3.py": {
+                "LOC": 7,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            },
+            "TestClasses.py": {
+                "LOC": 12,
+                "Fan in": {
+                    "__init__": 1,
+                    "printA": 1,
+                    "print": 1,
+                    "super": 1
+                },
+                "Fan out": {
+                    "__init__": 3,
+                    "printA": 1
+                },
+                "CC": {},
+                "Length of Identifier": 3.933333333333333
+            }
+        }
     }
 }
