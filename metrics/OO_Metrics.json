@@ -5010,5 +5010,379 @@
                 "CBO": {}
             }
         }
+    },
+    "2025-05-21T16:32:00+00:00": {
+        "Test Python files/Test.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test1.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test2.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test3.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "TestClasses.py": {
+            "WMC": {
+                "A": 2,
+                "B": 1
+            },
+            "NOC": {
+                "A": 1
+            },
+            "DIT": {
+                "B": 1,
+                "A": 2
+            },
+            "CBO": {
+                "A": 1,
+                "B": 1
+            }
+        }
+    },
+    "branch_info": {
+        "046626e151ca170ff6b84ea6c1ec7a4763efe16c": {
+            "commit_sha": "046626e151ca170ff6b84ea6c1ec7a4763efe16c",
+            "commit_date": "2025-05-21T16:32:00+00:00"
+        },
+        "4e5312a848351218728e55ca743f554eed0bdda5": {
+            "commit_sha": "4e5312a848351218728e55ca743f554eed0bdda5",
+            "commit_date": "2025-05-21T16:31:57+00:00"
+        },
+        "84c6cb0eb79e1834017b97d67df308485737bb79": {
+            "commit_sha": "84c6cb0eb79e1834017b97d67df308485737bb79",
+            "commit_date": "2025-05-21T16:31:55+00:00"
+        },
+        "3ff446b6a216474b6df893d277a85ea7e6ba8276": {
+            "commit_sha": "3ff446b6a216474b6df893d277a85ea7e6ba8276",
+            "commit_date": "2025-05-21T16:31:53+00:00"
+        }
+    },
+    "2025-05-21T16:31:57+00:00": {
+        "Test Python files/Test.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test1.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test2.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test3.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "TestClasses.py": {
+            "WMC": {
+                "A": 2,
+                "B": 1
+            },
+            "NOC": {
+                "A": 1
+            },
+            "DIT": {
+                "B": 1,
+                "A": 2
+            },
+            "CBO": {
+                "A": 1,
+                "B": 1
+            }
+        }
+    },
+    "2025-05-21T16:31:55+00:00": {
+        "Test Python files/Test.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test1.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test2.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test3.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "TestClasses.py": {
+            "WMC": {
+                "A": 2,
+                "B": 1
+            },
+            "NOC": {
+                "A": 1
+            },
+            "DIT": {
+                "B": 1,
+                "A": 2
+            },
+            "CBO": {
+                "A": 1,
+                "B": 1
+            }
+        }
+    },
+    "2025-05-21T16:31:53+00:00": {
+        "Test Python files/Test.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test1.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test2.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "Test3.py": {
+            "WMC": {},
+            "NOC": {},
+            "DIT": {},
+            "CBO": {}
+        },
+        "TestClasses.py": {
+            "WMC": {
+                "A": 2,
+                "B": 1
+            },
+            "NOC": {
+                "A": 1
+            },
+            "DIT": {
+                "B": 1,
+                "A": 2
+            },
+            "CBO": {
+                "A": 1,
+                "B": 1
+            }
+        }
+    },
+    "046626e151ca170ff6b84ea6c1ec7a4763efe16c": {
+        "date": "2025-05-21T16:32:00+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test1.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test2.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test3.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "TestClasses.py": {
+                "WMC": {
+                    "A": 2,
+                    "B": 1
+                },
+                "NOC": {
+                    "A": 1
+                },
+                "DIT": {
+                    "B": 1,
+                    "A": 2
+                },
+                "CBO": {
+                    "A": 1,
+                    "B": 1
+                }
+            }
+        }
+    },
+    "4e5312a848351218728e55ca743f554eed0bdda5": {
+        "date": "2025-05-21T16:31:57+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test1.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test2.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test3.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "TestClasses.py": {
+                "WMC": {
+                    "A": 2,
+                    "B": 1
+                },
+                "NOC": {
+                    "A": 1
+                },
+                "DIT": {
+                    "B": 1,
+                    "A": 2
+                },
+                "CBO": {
+                    "A": 1,
+                    "B": 1
+                }
+            }
+        }
+    },
+    "84c6cb0eb79e1834017b97d67df308485737bb79": {
+        "date": "2025-05-21T16:31:55+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test1.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test2.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test3.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "TestClasses.py": {
+                "WMC": {
+                    "A": 2,
+                    "B": 1
+                },
+                "NOC": {
+                    "A": 1
+                },
+                "DIT": {
+                    "B": 1,
+                    "A": 2
+                },
+                "CBO": {
+                    "A": 1,
+                    "B": 1
+                }
+            }
+        }
+    },
+    "3ff446b6a216474b6df893d277a85ea7e6ba8276": {
+        "date": "2025-05-21T16:31:53+00:00",
+        "metrics": {
+            "Test Python files/Test.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test1.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test2.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "Test3.py": {
+                "WMC": {},
+                "NOC": {},
+                "DIT": {},
+                "CBO": {}
+            },
+            "TestClasses.py": {
+                "WMC": {
+                    "A": 2,
+                    "B": 1
+                },
+                "NOC": {
+                    "A": 1
+                },
+                "DIT": {
+                    "B": 1,
+                    "A": 2
+                },
+                "CBO": {
+                    "A": 1,
+                    "B": 1
+                }
+            }
+        }
     }
 }
