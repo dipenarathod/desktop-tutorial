@@ -283,5 +283,20 @@
                 "Length of Identifier": 2.6842105263157894
             }
         }
+    },
+    "26": {
+        "pr_number": 26,
+        "pr_date": "2026-03-14T12:17:59+00:00",
+        "pr_title": "Update Test2.py",
+        "commit_sha": "6861fb61cff3d909706f00c330eb43ec3f9c1bef",
+        "files": {
+            "Test2.py": {
+                "LOC": 9,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 5.0
+            }
+        }
     }
 }
