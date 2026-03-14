@@ -302,5 +302,21 @@
                 "Effort": 99404.46978715705
             }
         }
+    },
+    "26": {
+        "pr_number": 26,
+        "pr_date": "2026-03-14T12:17:59+00:00",
+        "pr_title": "Update Test2.py",
+        "commit_sha": "6861fb61cff3d909706f00c330eb43ec3f9c1bef",
+        "files": {
+            "Test2.py": {
+                "Program Vocabulary": 6,
+                "Program Length": 27,
+                "Estimated Program Length": 11.60964047443681,
+                "Volume": 69.79398751947122,
+                "Difficulty": 1.8,
+                "Effort": 125.62917753504819
+            }
+        }
     }
 }
