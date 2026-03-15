@@ -7,8 +7,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -21,8 +26,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -35,8 +45,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -49,8 +64,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -63,8 +83,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -77,8 +102,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -91,8 +121,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -105,8 +140,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -119,8 +159,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -133,8 +178,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -147,8 +197,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -161,8 +216,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -175,8 +235,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -189,8 +254,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -203,8 +273,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -217,8 +292,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -231,8 +311,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
@@ -245,8 +330,13 @@
         "files": {
             "Test1.py": {
                 "WMC": {},
-                "NOC": {},
-                "DIT": {},
+                "NOC": {
+                    "Shape": 1
+                },
+                "DIT": {
+                    "Shape": 1,
+                    "Rectangle": 2
+                },
                 "CBO": {}
             }
         }
