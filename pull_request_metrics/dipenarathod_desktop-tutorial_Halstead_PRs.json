@@ -6,12 +6,12 @@
         "commit_sha": "3ef1aa22313844d25d7c4c8862229024efdf0aa6",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 23,
-                "Program Length": 252,
-                "Estimated Program Length": 86.66829050039843,
-                "Volume": 1139.9376129263674,
-                "Difficulty": 23.333333333333336,
-                "Effort": 26598.544301615242
+                "Program Vocabulary": 28,
+                "Program Length": 356,
+                "Estimated Program Length": 110.43856189774725,
+                "Volume": 1711.418352252507,
+                "Difficulty": 41.6,
+                "Effort": 71195.0034537043
             }
         }
     },
@@ -22,12 +22,12 @@
         "commit_sha": "b8c7eba49f6910c1a51612be50b2e394541df884",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 23,
-                "Program Length": 168,
-                "Estimated Program Length": 86.66829050039843,
-                "Volume": 759.9584086175782,
-                "Difficulty": 15.555555555555555,
-                "Effort": 11821.575245162328
+                "Program Vocabulary": 28,
+                "Program Length": 236,
+                "Estimated Program Length": 110.43856189774725,
+                "Volume": 1134.5357616055944,
+                "Difficulty": 28.0,
+                "Effort": 31767.001324956644
             }
         }
     },
@@ -38,12 +38,12 @@
         "commit_sha": "2d0106596529fe071a590da57e1ab994513555e0",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 23,
-                "Program Length": 126,
-                "Estimated Program Length": 86.66829050039843,
-                "Volume": 569.9688064631837,
-                "Difficulty": 11.666666666666668,
-                "Effort": 6649.6360754038105
+                "Program Vocabulary": 28,
+                "Program Length": 176,
+                "Estimated Program Length": 110.43856189774725,
+                "Volume": 846.0944662821382,
+                "Difficulty": 21.2,
+                "Effort": 17937.20268518133
             }
         }
     },
@@ -54,12 +54,12 @@
         "commit_sha": "f8dae6601a2ec7e4325ab1826cae971aa79111b3",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 154,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 706.084225111058,
-                "Difficulty": 11.710526315789473,
-                "Effort": 8268.617899326862
+                "Program Vocabulary": 29,
+                "Program Length": 227,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 1102.7616858939589,
+                "Difficulty": 27.80952380952381,
+                "Effort": 30667.277360098666
             }
         }
     },
@@ -70,12 +70,12 @@
         "commit_sha": "ba9c58e0342f10b2c57b98c9e0262e3880dd0e82",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 132,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 605.2150500951926,
-                "Difficulty": 10.263157894736842,
-                "Effort": 6211.41761939803
+                "Program Vocabulary": 29,
+                "Program Length": 194,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 942.448313054749,
+                "Difficulty": 23.61904761904762,
+                "Effort": 22259.731584531215
             }
         }
     },
@@ -86,12 +86,12 @@
         "commit_sha": "727b62479a2f7286c6ad72585de6126682449dc3",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 108,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 495.17595007788486,
-                "Difficulty": 8.68421052631579,
-                "Effort": 4300.212198044789
+                "Program Vocabulary": 29,
+                "Program Length": 158,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 767.5609972301563,
+                "Difficulty": 19.047619047619047,
+                "Effort": 14620.209471050597
             }
         }
     },
@@ -102,12 +102,12 @@
         "commit_sha": "4b4f8e9ea320fcc0a2a8a545b32eacb4e7bf33ae",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 96,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 440.156400069231,
-                "Difficulty": 7.894736842105264,
-                "Effort": 3474.918947914982
+                "Program Vocabulary": 29,
+                "Program Length": 140,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 680.1173393178601,
+                "Difficulty": 16.761904761904763,
+                "Effort": 11400.062068566036
             }
         }
     },
@@ -118,12 +118,12 @@
         "commit_sha": "e4c98b193792be3672f91fbd8392f1baaa8a6712",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 84,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 385.1368500605771,
-                "Difficulty": 7.105263157894736,
-                "Effort": 2736.4986714830475
+                "Program Vocabulary": 29,
+                "Program Length": 122,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 592.6736814055638,
+                "Difficulty": 14.476190476190476,
+                "Effort": 8579.657102251971
             }
         }
     },
@@ -134,12 +134,12 @@
         "commit_sha": "be474db681b6f1c10f368d107902cd201da3e393",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 76,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 348.45715005480787,
-                "Difficulty": 6.578947368421053,
-                "Effort": 2292.481250360578
+                "Program Vocabulary": 29,
+                "Program Length": 110,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 534.3779094640329,
+                "Difficulty": 12.952380952380953,
+                "Effort": 6921.466255915093
             }
         }
     },
@@ -150,12 +150,12 @@
         "commit_sha": "64afbf07bdc256d92dc9b8677351a9a029acb68e",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 76,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 348.45715005480787,
-                "Difficulty": 6.578947368421053,
-                "Effort": 2292.481250360578
+                "Program Vocabulary": 29,
+                "Program Length": 110,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 534.3779094640329,
+                "Difficulty": 12.952380952380953,
+                "Effort": 6921.466255915093
             }
         }
     },
@@ -166,12 +166,12 @@
         "commit_sha": "812be7572cf5e45d16e9ac96589ce3727a148e66",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 74,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 339.28722505336555,
-                "Difficulty": 6.447368421052632,
-                "Effort": 2187.5097404756466
+                "Program Vocabulary": 29,
+                "Program Length": 107,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 519.8039664786502,
+                "Difficulty": 12.571428571428571,
+                "Effort": 6534.678435731602
             }
         }
     },
@@ -182,12 +182,12 @@
         "commit_sha": "ac32bd302caa0db90293d5e6ab13338aa5d35b6d",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 36,
-                "Program Length": 110,
-                "Estimated Program Length": 165.18972609642995,
-                "Volume": 568.6917501586544,
-                "Difficulty": 5.403225806451612,
-                "Effort": 3072.769940373374
+                "Program Vocabulary": 41,
+                "Program Length": 161,
+                "Estimated Program Length": 190.46500593882897,
+                "Volume": 862.5658727435115,
+                "Difficulty": 12.363636363636363,
+                "Effort": 10664.450790283414
             }
         }
     },
@@ -198,12 +198,12 @@
         "commit_sha": "0558f03b3e1fe9ec9b458e11026b8aeecaf885a3",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 35,
-                "Program Length": 108,
-                "Estimated Program Length": 158.81635834269238,
-                "Volume": 553.9625658300564,
-                "Difficulty": 5.5,
-                "Effort": 3046.7941120653104
+                "Program Vocabulary": 40,
+                "Program Length": 158,
+                "Estimated Program Length": 184.0,
+                "Volume": 840.8646389922033,
+                "Difficulty": 12.5,
+                "Effort": 10510.80798740254
             }
         }
     },
@@ -214,12 +214,12 @@
         "commit_sha": "46d16aabf1e37b581abacaf25896675f314405f5",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 33,
-                "Program Length": 104,
-                "Estimated Program Length": 146.2155782920497,
-                "Volume": 524.6169884132792,
-                "Difficulty": 5.7142857142857135,
-                "Effort": 2997.811362361595
+                "Program Vocabulary": 38,
+                "Program Length": 152,
+                "Estimated Program Length": 171.20671786825557,
+                "Volume": 797.684982043425,
+                "Difficulty": 12.8,
+                "Effort": 10210.36777015584
             }
         }
     },
@@ -230,12 +230,12 @@
         "commit_sha": "23a6016bc7a2d46716eeaf15cd40ad16c5c863ad",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 31,
-                "Program Length": 100,
-                "Estimated Program Length": 133.8210731461052,
-                "Volume": 495.4196310386875,
-                "Difficulty": 5.961538461538462,
-                "Effort": 2953.4631850383294
+                "Program Vocabulary": 36,
+                "Program Length": 146,
+                "Estimated Program Length": 158.6059378176129,
+                "Volume": 754.8090502105775,
+                "Difficulty": 13.142857142857142,
+                "Effort": 9920.347517053304
             }
         }
     },
@@ -246,12 +246,12 @@
         "commit_sha": "9de580228217701493498abd422e0ffec9dd311d",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 27,
-                "Program Length": 92,
-                "Estimated Program Length": 109.71713608445735,
-                "Volume": 437.44965019903907,
-                "Difficulty": 6.590909090909091,
-                "Effort": 2883.1908763118486
+                "Program Vocabulary": 32,
+                "Program Length": 134,
+                "Estimated Program Length": 134.03910001730776,
+                "Volume": 670.0,
+                "Difficulty": 14.0,
+                "Effort": 9380.0
             }
         }
     },
@@ -262,12 +262,12 @@
         "commit_sha": "f946992a28f3dc045d031b49e31c75ba7fd916d1",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 25,
-                "Program Length": 88,
-                "Estimated Program Length": 98.04820237218406,
-                "Volume": 408.6593447001757,
-                "Difficulty": 7.0,
-                "Effort": 2860.6154129012302
+                "Program Vocabulary": 30,
+                "Program Length": 128,
+                "Estimated Program Length": 122.10749561002054,
+                "Volume": 628.0819962378904,
+                "Difficulty": 14.545454545454545,
+                "Effort": 9135.738127096587
             }
         }
     },
@@ -278,12 +278,12 @@
         "commit_sha": "1ea4b33c022cc0903e7e1a6f16ec7349b085ced3",
         "files": {
             "Test1.py": {
-                "Program Vocabulary": 24,
-                "Program Length": 74,
-                "Estimated Program Length": 92.32026322986493,
-                "Volume": 339.28722505336555,
-                "Difficulty": 6.447368421052632,
-                "Effort": 2187.5097404756466
+                "Program Vocabulary": 29,
+                "Program Length": 107,
+                "Estimated Program Length": 116.23866587835397,
+                "Volume": 519.8039664786502,
+                "Difficulty": 12.571428571428571,
+                "Effort": 6534.678435731602
             }
         }
     },
